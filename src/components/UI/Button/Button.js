@@ -1,5 +1,5 @@
 // //external pakge for styling component without affecting otehr components - even if they contain same class name
-// //lot of features explained in DOCUMENTATAION
+// //lot of features explained in DOCUMENTATAION->
 // import styled from "styled-components";
 
 // const Button = styled.button`
